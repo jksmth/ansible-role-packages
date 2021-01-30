@@ -1,0 +1,5 @@
+---
+# defaults packages
+packages:
+  - zip
+  - curl
